@@ -81,3 +81,9 @@ Data Analytics & Automation
 
 LinkedIn: www.linkedin.com/in/lamont-allen-36b9673b2  
 Email: allenlamont176@gmail.com
+
+---
+
+## Professional Profile
+
+See: [AI Contractor Profile](AI_CONTRACTOR_PROFILE.md)
