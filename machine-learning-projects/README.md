@@ -7,7 +7,7 @@ This directory contains applied machine learning workflows demonstrating end-to-
 ## Project 1: Predictive Classification Model
 
 Objective:
-Develop a supervised machine learning model to predict outcomes using structured datasets.
+Develop a supervised machine learning model to predict structured data outcomes.
 
 Workflow:
 - Data cleaning & preprocessing
@@ -30,11 +30,11 @@ Tools Used:
 ## Project 2: Customer Segmentation (Unsupervised Learning)
 
 Objective:
-Cluster users based on behavioral data.
+Cluster users based on behavioral and transactional data.
 
 Workflow:
 - Exploratory Data Analysis (EDA)
 - Scaling & normalization
 - K-Means clustering
-- Cluster evaluation (Silhouette Score)
+- Silhouette score evaluation
 - Business insight interpretation
