@@ -1,93 +1,83 @@
-# Lamont Allen | AI Engineering & Data Specialist
+# Lamont Allen | AI Engineering & LLM Evaluation Specialist
 
-## AI-Focused Technical Portfolio
+AI Engineering & Data Analytics Professional specializing in Machine Learning model development, LLM evaluation frameworks, structured response grading, and scalable data solutions.
 
-Results-driven AI & Data Professional specializing in machine learning model development, data analytics, automation engineering, and scalable solution design. Experienced in transforming raw datasets into production-ready insights and deployable systems.
+This portfolio demonstrates applied AI workflow design, model evaluation methodology, and automation engineering.
 
 ---
 
-## Core AI & Data Engineering Skills
+# Core Specializations
 
-### Programming
-- Python (Advanced)
-- SQL (Data Querying & Optimization)
-- JavaScript (Node.js)
-- Java
-- C
+## LLM Evaluation & AI Model Testing
+- Structured response scoring frameworks
+- Accuracy & reasoning analysis
+- Instruction adherence validation
+- Bias & safety auditing
+- Reinforcement Learning from Human Feedback (RLHF) alignment
 
-### Machine Learning & Modeling
+## Machine Learning Engineering
 - Supervised & Unsupervised Learning
 - Regression & Classification Models
 - Decision Trees & Random Forest
-- Support Vector Machines
-- K-Means Clustering
-- Model Evaluation & Optimization
+- SVM & Clustering Algorithms
+- Model evaluation & optimization
 
-### Data Engineering & Analytics
-- Data Cleaning & Preprocessing
-- Feature Engineering
+## Data Analytics & Business Intelligence
+- SQL-based reporting systems
+- Power BI executive dashboards
 - Exploratory Data Analysis (EDA)
-- Statistical Modeling
-- Hypothesis Testing
+- Statistical modeling & hypothesis testing
 
-### AI Workflow Automation
-- Python Automation Scripts
-- API Integrations
-- Data Pipeline Development
-- Power Automate Workflows
-
----
-
-## Tools & Platforms
-- Pandas, NumPy, Scikit-learn
-- Power BI (Interactive Dashboards)
-- Advanced Excel (Power Query, Pivot Models)
-- Git & GitHub
-- Jupyter Notebook
-- SQL Server, MySQL, PostgreSQL
+## Automation & Workflow Engineering
+- Python automation scripts
+- API integrations
+- Data pipeline structuring
+- Power Automate workflows
 
 ---
 
-## Project Highlights
+# Repository Structure
 
-### 1. End-to-End Machine Learning Pipeline
-- Data ingestion & preprocessing
-- Feature engineering
-- Model training & validation
-- Performance tuning
-- Deployment-ready structure
-
-### 2. Business Intelligence Dashboard System
-- Automated reporting workflows
-- KPI modeling
-- Executive-level data visualization
-
-### 3. Workflow Automation Framework
-- Python-based automation scripts
-- API data extraction
-- Scheduled task orchestration
+machine-learning-projects  
+data-analytics-projects  
+automation-projects  
+llm-evaluation-framework  
 
 ---
 
-## Professional Focus
-- AI Model Development
-- Data Annotation Optimization
-- AI Training Data Evaluation
-- Business Intelligence Engineering
-- Automation & Systems Optimization
+# Technical Stack
+
+Python | Pandas | NumPy | Scikit-learn  
+SQL | Power BI | Excel  
+Git & GitHub  
+Jupyter Notebook  
+JavaScript | Node.js  
+Java | C  
 
 ---
 
-## Open to AI Contract Roles
-Available for:
-- AI Model Evaluation Projects
-- LLM Response Rating & Analysis
-- Data Annotation Quality Review
-- Machine Learning Model Testing
-- Workflow Automation Engineering
+# AI Contractor Alignment
+
+This portfolio is aligned with:
+
+- LLM response evaluation projects
+- AI data annotation quality review
+- Model benchmarking & ranking
+- Prompt engineering validation
+- AI safety and bias assessment
 
 ---
 
-## Contact
+# Professional Focus
+
+AI Model Evaluation  
+LLM Response Ranking  
+Machine Learning Engineering  
+Data Analytics & Automation  
+
+---
+
+# Contact
+
 LinkedIn: www.linkedin.com/in/lamont-allen-36b9673b2  
 Email: allenlamont176@gmail.com
